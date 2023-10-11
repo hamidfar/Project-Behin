@@ -1,0 +1,24 @@
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Domain\bin\Debug\net7.0\IS.Domain.deps.json
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Domain\bin\Debug\net7.0\IS.Domain.dll
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Domain\bin\Debug\net7.0\IS.Domain.pdb
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Domain\obj\Debug\net7.0\IS.Domain.csproj.AssemblyReference.cache
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Domain\obj\Debug\net7.0\IS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Domain\obj\Debug\net7.0\IS.Domain.AssemblyInfoInputs.cache
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Domain\obj\Debug\net7.0\IS.Domain.AssemblyInfo.cs
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Domain\obj\Debug\net7.0\IS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Domain\obj\Debug\net7.0\IS.Domain.dll
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Domain\obj\Debug\net7.0\refint\IS.Domain.dll
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Domain\obj\Debug\net7.0\IS.Domain.pdb
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Domain\obj\Debug\net7.0\ref\IS.Domain.dll
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Domain\bin\Debug\net7.0\IS.Domain.deps.json
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Domain\bin\Debug\net7.0\IS.Domain.dll
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Domain\bin\Debug\net7.0\IS.Domain.pdb
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Domain\obj\Debug\net7.0\IS.Domain.csproj.AssemblyReference.cache
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Domain\obj\Debug\net7.0\IS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Domain\obj\Debug\net7.0\IS.Domain.AssemblyInfoInputs.cache
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Domain\obj\Debug\net7.0\IS.Domain.AssemblyInfo.cs
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Domain\obj\Debug\net7.0\IS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Domain\obj\Debug\net7.0\IS.Domain.dll
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Domain\obj\Debug\net7.0\refint\IS.Domain.dll
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Domain\obj\Debug\net7.0\IS.Domain.pdb
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Domain\obj\Debug\net7.0\ref\IS.Domain.dll

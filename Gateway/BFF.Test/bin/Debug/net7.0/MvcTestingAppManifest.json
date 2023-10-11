@@ -1,0 +1,8 @@
+{
+  "IS.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hfarh\\source\\repos\\Project\\IdentityService\\IS.API",
+  "IS.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hfarh\\source\\repos\\Project\\IdentityService\\IS.Domain",
+  "IS.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hfarh\\source\\repos\\Project\\IdentityService\\IS.Infrastructure",
+  "PD.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hfarh\\source\\repos\\Project\\Product\\PD.API",
+  "PD.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hfarh\\source\\repos\\Project\\Product\\PD.Domain",
+  "PD.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hfarh\\source\\repos\\Project\\Product\\PD.Infrastructure"
+}

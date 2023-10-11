@@ -1,0 +1,30 @@
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Infrastructure\bin\Debug\net7.0\IS.Infrastructure.deps.json
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Infrastructure\bin\Debug\net7.0\IS.Infrastructure.dll
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Infrastructure\bin\Debug\net7.0\IS.Infrastructure.pdb
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Infrastructure\obj\Debug\net7.0\IS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Infrastructure\obj\Debug\net7.0\IS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Infrastructure\obj\Debug\net7.0\IS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Infrastructure\obj\Debug\net7.0\IS.Infrastructure.AssemblyInfo.cs
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Infrastructure\obj\Debug\net7.0\IS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Infrastructure\obj\Debug\net7.0\IS.Infrastructure.dll
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Infrastructure\obj\Debug\net7.0\refint\IS.Infrastructure.dll
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Infrastructure\obj\Debug\net7.0\IS.Infrastructure.pdb
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Infrastructure\obj\Debug\net7.0\ref\IS.Infrastructure.dll
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Infrastructure\bin\Debug\net7.0\IS.Domain.dll
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Infrastructure\bin\Debug\net7.0\IS.Domain.pdb
+C:\Users\hfarh\source\repos\Project\Identity Service\IS.Infrastructure\obj\Debug\net7.0\IS.Infrastructure.csproj.CopyComplete
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Infrastructure\bin\Debug\net7.0\IS.Infrastructure.deps.json
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Infrastructure\bin\Debug\net7.0\IS.Infrastructure.dll
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Infrastructure\bin\Debug\net7.0\IS.Infrastructure.pdb
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Infrastructure\bin\Debug\net7.0\IS.Domain.dll
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Infrastructure\bin\Debug\net7.0\IS.Domain.pdb
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Infrastructure\obj\Debug\net7.0\IS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Infrastructure\obj\Debug\net7.0\IS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Infrastructure\obj\Debug\net7.0\IS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Infrastructure\obj\Debug\net7.0\IS.Infrastructure.AssemblyInfo.cs
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Infrastructure\obj\Debug\net7.0\IS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Infrastructure\obj\Debug\net7.0\IS.Infrastructure.csproj.CopyComplete
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Infrastructure\obj\Debug\net7.0\IS.Infrastructure.dll
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Infrastructure\obj\Debug\net7.0\refint\IS.Infrastructure.dll
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Infrastructure\obj\Debug\net7.0\IS.Infrastructure.pdb
+C:\Users\hfarh\source\repos\Project\IdentityService\IS.Infrastructure\obj\Debug\net7.0\ref\IS.Infrastructure.dll

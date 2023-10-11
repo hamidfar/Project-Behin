@@ -1,0 +1,12 @@
+C:\Users\hfarh\source\repos\Project\Product\PD.Domain\bin\Debug\net7.0\PD.Domain.deps.json
+C:\Users\hfarh\source\repos\Project\Product\PD.Domain\bin\Debug\net7.0\PD.Domain.dll
+C:\Users\hfarh\source\repos\Project\Product\PD.Domain\bin\Debug\net7.0\PD.Domain.pdb
+C:\Users\hfarh\source\repos\Project\Product\PD.Domain\obj\Debug\net7.0\PD.Domain.csproj.AssemblyReference.cache
+C:\Users\hfarh\source\repos\Project\Product\PD.Domain\obj\Debug\net7.0\PD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hfarh\source\repos\Project\Product\PD.Domain\obj\Debug\net7.0\PD.Domain.AssemblyInfoInputs.cache
+C:\Users\hfarh\source\repos\Project\Product\PD.Domain\obj\Debug\net7.0\PD.Domain.AssemblyInfo.cs
+C:\Users\hfarh\source\repos\Project\Product\PD.Domain\obj\Debug\net7.0\PD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hfarh\source\repos\Project\Product\PD.Domain\obj\Debug\net7.0\PD.Domain.dll
+C:\Users\hfarh\source\repos\Project\Product\PD.Domain\obj\Debug\net7.0\refint\PD.Domain.dll
+C:\Users\hfarh\source\repos\Project\Product\PD.Domain\obj\Debug\net7.0\PD.Domain.pdb
+C:\Users\hfarh\source\repos\Project\Product\PD.Domain\obj\Debug\net7.0\ref\PD.Domain.dll
