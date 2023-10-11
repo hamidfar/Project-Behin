@@ -63,9 +63,9 @@ namespace IS.API
                     ClientName = "PD Swagger Client",
                     AllowedGrantTypes = { "implicit" },
                     AllowAccessTokensViaBrowser = true,
-                    RedirectUris = { "http://localhost:6001/swagger/oauth2-redirect.html" },
-                    PostLogoutRedirectUris = { "http://localhost:6001/swagger/oauth2-redirect.html" },
-                    AllowedCorsOrigins = { "http://localhost:6001" },
+                    RedirectUris = { "http://localhost:6000/swagger/oauth2-redirect.html" },
+                    PostLogoutRedirectUris = { "http://localhost:6000/swagger/oauth2-redirect.html" },
+                    AllowedCorsOrigins = { "http://localhost:6000" },
                     AllowedScopes = { "pd-api" }
                 }
              })
